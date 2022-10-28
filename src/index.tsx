@@ -5,6 +5,7 @@ import App from '~/App';
 import reportWebVitals from './reportWebVitals';
 
 import GlobalStyles from './components/GlobalStyles';
+import type {} from '@mui/material/themeCssVarsAugmentation';
 
 const root = ReactDOM.createRoot(document.getElementById('root') as HTMLElement);
 root.render(
